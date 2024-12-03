@@ -1,5 +1,5 @@
 'use strict';
-
+var i = 1
 (function() {
   var window = this;
   var $ = window.jQuery;
@@ -154,3 +154,6 @@
 
   window.Arithmetic = Arithmetic;
 }).call(this);
+
+for(i = 1;)
+console.log(answer)
